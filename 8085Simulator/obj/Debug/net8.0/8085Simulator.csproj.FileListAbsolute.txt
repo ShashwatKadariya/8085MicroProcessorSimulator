@@ -1,0 +1,14 @@
+/Users/shashwatkadadriya/Development/CSharpProject/8085Simulator/8085Simulator/8085Simulator/bin/Debug/net8.0/8085Simulator
+/Users/shashwatkadadriya/Development/CSharpProject/8085Simulator/8085Simulator/8085Simulator/bin/Debug/net8.0/8085Simulator.deps.json
+/Users/shashwatkadadriya/Development/CSharpProject/8085Simulator/8085Simulator/8085Simulator/bin/Debug/net8.0/8085Simulator.runtimeconfig.json
+/Users/shashwatkadadriya/Development/CSharpProject/8085Simulator/8085Simulator/8085Simulator/bin/Debug/net8.0/8085Simulator.dll
+/Users/shashwatkadadriya/Development/CSharpProject/8085Simulator/8085Simulator/8085Simulator/bin/Debug/net8.0/8085Simulator.pdb
+/Users/shashwatkadadriya/Development/CSharpProject/8085Simulator/8085Simulator/8085Simulator/obj/Debug/net8.0/8085Simulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shashwatkadadriya/Development/CSharpProject/8085Simulator/8085Simulator/8085Simulator/obj/Debug/net8.0/8085Simulator.AssemblyInfoInputs.cache
+/Users/shashwatkadadriya/Development/CSharpProject/8085Simulator/8085Simulator/8085Simulator/obj/Debug/net8.0/8085Simulator.AssemblyInfo.cs
+/Users/shashwatkadadriya/Development/CSharpProject/8085Simulator/8085Simulator/8085Simulator/obj/Debug/net8.0/8085Simulator.csproj.CoreCompileInputs.cache
+/Users/shashwatkadadriya/Development/CSharpProject/8085Simulator/8085Simulator/8085Simulator/obj/Debug/net8.0/8085Simulator.dll
+/Users/shashwatkadadriya/Development/CSharpProject/8085Simulator/8085Simulator/8085Simulator/obj/Debug/net8.0/refint/8085Simulator.dll
+/Users/shashwatkadadriya/Development/CSharpProject/8085Simulator/8085Simulator/8085Simulator/obj/Debug/net8.0/8085Simulator.pdb
+/Users/shashwatkadadriya/Development/CSharpProject/8085Simulator/8085Simulator/8085Simulator/obj/Debug/net8.0/8085Simulator.genruntimeconfig.cache
+/Users/shashwatkadadriya/Development/CSharpProject/8085Simulator/8085Simulator/8085Simulator/obj/Debug/net8.0/ref/8085Simulator.dll
